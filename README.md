@@ -6,7 +6,7 @@ Sou um desenvolvedor em formação, apaixonado por tecnologia e focado em me tor
 
 - 💻 **Java** — Meu foco principal no desenvolvimento back-end
 - 🛠️ **Spring Framework** (Boot, Data, etc.) — Em aprendizado
-- 🗄️ **MySQL** / **PostgreSQL** — Para persistência de dados
+- 🗄️ **MySQL** / **NoSQL** — Para persistência de dados
 - 🔐 Autenticação com JWT, segurança com Spring Security
 - 📦 Maven / Gradle — Gerenciamento de dependências
 - 🌐 APIs RESTful
