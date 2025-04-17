@@ -10,7 +10,7 @@ Sou um desenvolvedor em formação, apaixonado por tecnologia e focado em me tor
 
 ## 🎯 Objetivos atuais
 
-- Aprimorar minhas habilidades com **Spring Boot**
+- Aprimorar minhas habilidades com **Java**
 - Praticar **testes automatizados e TDD**
 - Criar APIs REST completas
 
