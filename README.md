@@ -6,7 +6,7 @@ Sou um desenvolvedor em formação, apaixonado por tecnologia e focado em me tor
 
 - 💻 **Java** — Meu foco principal no desenvolvimento back-end
 - 🛠️ **Altualmente:** Spring Framework (Boot, Data, etc.)
-- 🛠️ **Altualmente:** Criando um projeto de workshop com spring.
+- 🛠️ **Altualmente:** Criando um projeto de workshop com spring boot.
 
 ## 🎯 Objetivos atuais
 
